@@ -1,0 +1,15 @@
+C:\Users\goist\git\MSUser\MSUser\obj\Debug\netcoreapp2.1\MSUser.csproj.CoreCompileInputs.cache
+C:\Users\goist\git\MSUser\MSUser\obj\Debug\netcoreapp2.1\MSUser.AssemblyInfoInputs.cache
+C:\Users\goist\git\MSUser\MSUser\obj\Debug\netcoreapp2.1\MSUser.AssemblyInfo.cs
+C:\Users\goist\git\MSUser\MSUser\bin\Debug\netcoreapp2.1\MSUser.deps.json
+C:\Users\goist\git\MSUser\MSUser\bin\Debug\netcoreapp2.1\MSUser.runtimeconfig.json
+C:\Users\goist\git\MSUser\MSUser\bin\Debug\netcoreapp2.1\MSUser.runtimeconfig.dev.json
+C:\Users\goist\git\MSUser\MSUser\bin\Debug\netcoreapp2.1\MSUser.dll
+C:\Users\goist\git\MSUser\MSUser\obj\Debug\netcoreapp2.1\MSUser.csprojAssemblyReference.cache
+C:\Users\goist\git\MSUser\MSUser\obj\Debug\netcoreapp2.1\MSUser.RazorAssemblyInfo.cache
+C:\Users\goist\git\MSUser\MSUser\obj\Debug\netcoreapp2.1\MSUser.RazorAssemblyInfo.cs
+C:\Users\goist\git\MSUser\MSUser\obj\Debug\netcoreapp2.1\MSUser.RazorTargetAssemblyInfo.cache
+C:\Users\goist\git\MSUser\MSUser\bin\Debug\netcoreapp2.1\MSUser.pdb
+C:\Users\goist\git\MSUser\MSUser\obj\Debug\netcoreapp2.1\MSUser.dll
+C:\Users\goist\git\MSUser\MSUser\obj\Debug\netcoreapp2.1\MSUser.pdb
+C:\Users\goist\git\MSUser\MSUser\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
